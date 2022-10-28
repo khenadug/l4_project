@@ -1,9 +1,9 @@
 # Timelog
 
-* PROJECT NAME
-* YOUR NAME
-* STUDENT_ID
-* SUPERVISOR NAME
+* Lifting Weight: Programming a drone to support autonomy in agri-tech
+* Khena Dungu
+* 2462068D
+* Dr Lito Michala
 
 ## Guidance
 
@@ -14,13 +14,25 @@
 
 ## Week 1
 
-### 19 Oct 2019
+### 3 Oct 2022
 
-* *4 hours* Read the project guidance notes
-* *0.5 hour* Created GitLab repository and cloned the cookiecutter for the projects
-* *1 hour* Modified dissertation template, compiled  
+* 30 minute meeting with supervisor on what the project entails 
+* 3 hours spent reading through the full project proposal and motivation literature 
+* compiled a list of questions for supervisor 
 
-## 20 Oct 2019
+## 10 Oct 2022
 
-* *1 hour* meeting with supervisor
-* *2 hours* writing initial version of test harness
+* supervisor meeting did not go ahead due to them not being able to attend
+* 2 hour research on drones and their smart farming application
+
+## 17 Oct 2022
+
+* supervisor was ill so no meeting 
+* 2 hours spend compiling literature review on projects simialar to mine
+
+## 24 Oct 2022
+
+* 20 minute supervisor meeting spent answering project proposal questions
+* 1 hour reading up on edge analytics and its applications for a project like mine
+* 30 mintue meeting with supervisor on setting up a Raspberry Pi and how that will help with my project 
+* 20 minutes setting up a Github repo
