@@ -32,7 +32,7 @@
 
 ## 24 Oct 2022
 
-* 20 minute supervisor meeting spent answering project proposal questions
+* 30 minute supervisor meeting spent answering project proposal questions
 * 1 hour reading up on edge analytics and its applications for a project like mine
 * 30 mintue meeting with supervisor on setting up a Raspberry Pi and how that will help with my project 
-* 20 minutes setting up a Github repo
+* 30 minutes setting up a Github repo
