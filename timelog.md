@@ -20,15 +20,21 @@
 * 3 hours spent reading through the full project proposal and motivation literature 
 * compiled a list of questions for supervisor 
 
+## Week 2
+
 ## 10 Oct 2022
 
 * supervisor meeting did not go ahead due to them not being able to attend
 * 2 hour research on drones and their smart farming application
 
+## Week 3
+
 ## 17 Oct 2022
 
 * supervisor was ill so no meeting 
 * 2 hours spend compiling literature review on projects simialar to mine
+
+## Week 4
 
 ## 24 Oct 2022
 
@@ -36,6 +42,9 @@
 * 1 hour reading up on edge analytics and its applications for a project like mine
 * 30 mintue meeting with supervisor on setting up a Raspberry Pi and how that will help with my project 
 * 30 minutes setting up a Github repo
+
+
+## Week 5
 
 ## 31 Oct 2022
 
