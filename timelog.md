@@ -36,3 +36,8 @@
 * 1 hour reading up on edge analytics and its applications for a project like mine
 * 30 mintue meeting with supervisor on setting up a Raspberry Pi and how that will help with my project 
 * 30 minutes setting up a Github repo
+
+## 31 Oct 2022
+
+* 30 minute supervisor meeting spent answering project proposal questions
+* 5 hours of research on raspberry pi OS - ordering the right cables and hardware, watching tutorials on how to set up a raspberry pi, what drone specific applications there are for raspberry pi's, reading the project proposal to clarify expectations 
