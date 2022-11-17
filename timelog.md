@@ -58,6 +58,7 @@
 * 30 minute supervisor meeting on the OS set up and clearing up software expectations
 * 1 hour downloading and setting up the environment based on specification given in meeting
 * 4 hours troubleshooting and installing navio OS to set up PX4 autopilot
+* 1 hour lit review research specifically on mapping images of farmland with drone imaging 
 
 ## Week 7
 
