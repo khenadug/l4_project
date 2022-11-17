@@ -56,4 +56,12 @@
 ## 7 Nov 2022
 
 * 30 minute supervisor meeting on the OS set up and clearing up software expectations
-* 1 hour downloading and setting up the environment based on specification given in meeting 
+* 1 hour downloading and setting up the environment based on specification given in meeting
+* 4 hours troubleshooting and installing navio OS to set up PX4 autopilot
+
+## Week 7
+
+## 14 Nov 2022
+* 30 minute supervisor meeting 
+* 1 hour redownloading Raspberry Pi OS to try PX4 set up that way
+
