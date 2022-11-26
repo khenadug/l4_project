@@ -66,3 +66,9 @@
 * 30 minute supervisor meeting 
 * 1 hour redownloading Raspberry Pi OS to try PX4 set up that way
 
+## Week 8
+
+## 21 Nov 2022
+* 8 hours spent troubleshooting the download process of PX4 on the Raspberry Pi OS
+* 4 hours spent dowloading and troubleshooting the downlaod of PilotPi on Raspberry Pi
+* 30 minutes spent reading through forums and documentation to resolve issues with the OS
