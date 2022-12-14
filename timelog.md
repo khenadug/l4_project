@@ -72,3 +72,24 @@
 * 8 hours spent troubleshooting the download process of PX4 on the Raspberry Pi OS
 * 4 hours spent dowloading and troubleshooting the downlaod of PilotPi on Raspberry Pi
 * 30 minutes spent reading through forums and documentation to resolve issues with the OS
+
+## Week 9
+
+## 28 Nov 2022
+* 30 minute supervisor meeting 
+* 4 hours spent dowloading Paparazzi GCS on Raspberry Pi board
+* 2 hours troubleshooting the errors from the process
+
+## Week 10
+
+## 5 Dec 2022
+* 30 minute supervisor meeting 
+* 1 hour spent on Status Report 
+* 1 hour into Python script immplementations 
+
+## Week 11
+
+## 12 Dec 2022
+* 30 minute supervisor meeting
+* 30 minutes finishing and submitting Status Report 
+* 1 hour doing lit review research 
